@@ -1,7 +1,7 @@
 Title: Bike Rental Shop - SQL Case Study
 
 1. Introduction:
-This folder contains a case study for a bike rental shop, aimed at answering business questions using SQL queries based on the shop's database schema.
+This folder contains a case study for a bike rental shop, aimed at answering business questions using SQL queries based on the shop's database schema. Please refer SQL_Case_Study_Bike_Rental_shop.pdf for more information.
 
 2. Files:
 case_study.pdf: Contains the full case study, problem statements, and SQL queries.
